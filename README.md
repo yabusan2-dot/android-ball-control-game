@@ -44,6 +44,16 @@ graph TD
 
 ---
 
+## 📦 アプリケーションの実行（apkパッケージ配布）
+
+本Androidアプリケーションをご自身の端末、またはエミュレータ上で実際に動作させて「加速度センサーの物理慣性挙動」および「プロキシ接続の判定処理」を検証できるよう、ビルド済みのapkファイルを配布しています。
+
+### 📥 動作検証用パッケージのダウンロード
+* **[👉 Androidアプリケーション原本 (.apk) をダウンロード](https://github.com/yabusan2-dot/android-ball-control-game/releases)**
+  *(※リポジトリ右側の「Releases」エリアより、最新のv5.0.0バイナリを直接取得いただけます)*
+
+---
+
 ## 🛠️ 技術スタック
 * **開発言語 / プラットフォーム**: Java, Android SDK (Android Studio)
 * **センサー制御**: `SensorManager`, `SensorEventListener` (加速度計)
