@@ -38,8 +38,8 @@ graph TD
     
     F --> G[非同期スレッドを起動]
     G --> H[Proxy.NO_PROXY を強制指定]
-    H --> I[社内ローカルAPIにJSONをPOST]
-    I --> J[🎉 学内サーバーにスコア保存完了]
+    H --> I[構内ローカルAPIにJSONをPOST]
+    I --> J[🎉 構内サーバーにスコア保存完了]
 ```
 
 ---
