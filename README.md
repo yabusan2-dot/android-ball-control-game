@@ -11,7 +11,7 @@
 *※以下のデモ映像は、OBS StudioにてAndroid Studioで表示した端末画面をキャプチャしたものである。*
 
 * **[👉 ボールコントロールゲームデモ動画（mp4）を再生する](https://github.com/yabusan2-dot/android-ball-control-game/issues/1)**
-
+* **[👉 スマホからの接続デモ動画（mp4）を再生する](https://github.com/yabusan2-dot/android-ball-control-game/issues/2)**
 ---
 
 ## 🚀 本プロジェクトの3大技術的見どころ（評価ポイント）
